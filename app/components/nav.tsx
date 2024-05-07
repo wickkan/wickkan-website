@@ -2,9 +2,7 @@
 import React from 'react';
 
 const navItems = {
-  '/': { name: 'Home' },
-  '/experiences': { name: 'Experiences' },
-  '/projects': { name: 'Projects' }
+  '/': { name: 'Home' }
 };
 
 export function Navbar() {
