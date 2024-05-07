@@ -1,4 +1,4 @@
-import { BlogPosts } from 'app/components/posts'
+import { Navbar } from 'app/components/nav'
 
 export default function Page() {
   return (
