@@ -1,3 +1,3 @@
 # Personal Website
 
-https://kanishkaw.vercel.app/
+My website containing a collection of experiences and projects: https://kanishkaw.vercel.app/
