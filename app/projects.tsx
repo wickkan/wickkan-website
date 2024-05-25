@@ -5,7 +5,9 @@ export default function Projects() {
     <div>
       <h1>Projects</h1>
       <p>Overview of my personal and academic projects...</p>
-      <h1>Data</h1>
+      <h2>Data</h2>
+      <h2>Web Development</h2>
+      <h1>Trading</h1>
     </div>
   );
 }
