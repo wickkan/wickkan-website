@@ -5,6 +5,7 @@ export default function Experiences() {
     <div>
       <h1>Experiences</h1>
       <p>Details about my professional and academic experiences...</p>
+      <h2>Work</h2>
     </div>
   );
 }
